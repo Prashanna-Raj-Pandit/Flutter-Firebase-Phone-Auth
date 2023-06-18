@@ -4,16 +4,16 @@
 
 ## UI
 
-<img width="900" height="550" src="assets/images/phone_auth.png">       
+<img width="900" height="500" src="assets/images/phone_auth.png">       
 
 ## User Authentication via Phone Number
 
-<img width="900" height="550" src="assets/images/auth.png"> 
+<img width="900" height="500" src="assets/images/auth.png"> 
 
 ## Storing user data in Firestore Database
 
-<img width="900" height="550" src="assets/images/db.png"> 
+<img width="900" height="500" src="assets/images/db.png"> 
 
 ## Storing Profile pic in Firebase Storage
 
-<img width="900" height="550" src="assets/images/storage.png">      
+<img width="900" height="500" src="assets/images/storage.png">      
