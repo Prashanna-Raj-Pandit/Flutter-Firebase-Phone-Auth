@@ -4,7 +4,7 @@
 
 ## UI
 
-<img width="900" height="500" src="assets/images/phone_auth.png">       
+<img width="800" height="600" src="assets/images/phone_auth.png">       
 
 ## User Authentication via Phone Number
 
